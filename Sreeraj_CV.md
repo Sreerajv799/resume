@@ -46,13 +46,13 @@ Key Responsibilities and Roles:
 -	Developed backup policies and schedules, ensuring data integrity and availability.
 -	Managed media operations, troubleshooting issues related to media management and backup processes.
 -	Replaced drives in SL500/SL150 tape libraries and resolved backup issues using EMC Networker, Oracle Secure Backup, and Veritas NetBackup.
-* Projects: *
+# Projects: 
 -	WI ES WEST1
 -	I_ES-N1-OBC-243892-16
-- Technologies Utilized:
+# Technologies Utilized:
 -	Operating Systems: Oracle Solaris 10/11, Sun Cluster 3.2/4.3, Sun servers (End of life, Midrange & High End), SL 500/150 tape libraries.
 -	Storage Solutions: Hitachi VSP, VSP G1500, HCP G10, HCP S10.
 -	Backup Solutions: EMC Networker, Veritas NetBackup.
 -	Virtualization: VMware ESXi 5.5, 6.0.
-- Achievements:
+# Achievements:
 -	Awarded the Certificate in the category of Shining Millennial for the year 2019-20, recognizing exceptional performance and contributions to project success.
