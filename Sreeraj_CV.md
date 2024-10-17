@@ -46,7 +46,7 @@ Key Responsibilities and Roles:
 -	Developed backup policies and schedules, ensuring data integrity and availability.
 -	Managed media operations, troubleshooting issues related to media management and backup processes.
 -	Replaced drives in SL500/SL150 tape libraries and resolved backup issues using EMC Networker, Oracle Secure Backup, and Veritas NetBackup.
-* Projects:*
+* Projects: *
 -	WI ES WEST1
 -	I_ES-N1-OBC-243892-16
 - Technologies Utilized:
