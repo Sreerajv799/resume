@@ -133,4 +133,4 @@ Key Responsibilities:
 
 ## Education
 - B.Tech in Information Systems, BITS Pilani, 2018.
-- 3-Year Engineering Diploma in Computer Engineering, NTTF, 2014
+- 3-Year Engineering Diploma in Computer Engineering, NTTF, 2014.
