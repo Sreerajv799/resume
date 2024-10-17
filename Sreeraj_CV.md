@@ -50,6 +50,7 @@ Key Responsibilities and Roles:
  Projects:
 -	WI ES WEST1
 -	I_ES-N1-OBC-243892-16
+  
  Technologies Utilized:
 -	Operating Systems: Oracle Solaris 10/11, Sun Cluster 3.2/4.3, Sun servers (End of life, Midrange & High End), SL 500/150 tape libraries.
 -	Storage Solutions: Hitachi VSP, VSP G1500, HCP G10, HCP S10.
@@ -130,3 +131,6 @@ Key Responsibilities:
  Achievements:
 - Recognized as "Person of the Month" twice for outstanding performance and commitment to customer satisfaction.
 
+## Education
+- B.Tech in Information Systems, BITS Pilani, 2018.
+- 3-Year Engineering Diploma in Computer Engineering, NTTF, 2014
