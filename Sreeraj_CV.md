@@ -7,7 +7,7 @@ Sreeraj V
 - GitHub: https://github.com/Sreerajv799
 
 ## Summary
-Dynamic IT professional with over nine years of experience in IT infrastructure management, specializing in Solaris and Linux administration, Oracle systems implementation, storage management, and virtualization. Proven track record of success in key roles at Wipro Limited, Capgemini Technology Services, and Almoayyed Computers Middle East. Adept at utilizing advanced technologies, including Hitachi Storage and EMC Networker Backup, to optimize performance and ensure data integrity. Certified in Oracle Solaris 11 System Administration and Oracle Cloud Infrastructure Foundations 2021, with a strong commitment to delivering exceptional results and enhancing customer satisfaction. Recognized for outstanding contributions and project success throughout my career.
+Dynamic IT professional with over ten years of experience in IT infrastructure management, specializing in Solaris and Linux administration, Oracle systems implementation, storage management, and virtualization. Proven track record of success in key roles at Wipro Limited, Capgemini Technology Services, and Almoayyed Computers Middle East. Adept at utilizing advanced technologies, including Hitachi Storage and EMC Networker Backup, to optimize performance and ensure data integrity. Certified in Oracle Solaris 11 System Administration and Oracle Cloud Infrastructure Foundations 2021, with a strong commitment to delivering exceptional results and enhancing customer satisfaction. Recognized for outstanding contributions and project success throughout my career.
 
 ## Skills
 - Solaris Administration: Advanced
