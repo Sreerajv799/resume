@@ -92,7 +92,7 @@ Skills and Technologies:
 -	Proficient in Hitachi Storage Management tools (e.g., Command Suite).
 -	Familiar with storage protocols such as iSCSI, FC, NFS, and SMB.
 
-###	UNIX System Engineer, Almoayyed Computers Middle East
+###	Enterprise System Architect, Almoayyed Computers Middle East
 
 *February 2021 – Present*
 
